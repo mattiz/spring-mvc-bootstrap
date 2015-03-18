@@ -1,1 +1,6 @@
 Spring MVC project template
+---------------------------
+
+Build and run using mvn clean tomcat:run
+
+Point browser to http://localhost:8080/spring-mvc-bootstrap/
